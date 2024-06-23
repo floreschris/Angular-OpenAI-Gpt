@@ -1,4 +1,4 @@
-# Angular-OpenAI-Gpt
+# Angular-OpenAI-Gpt-AI
 
 Pasos para ejecutar en dev
 
